@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://tomagsvi9.github.io/.github/audible">  
+<a href="https://osx-get-software.github.io/.github/audible">  
 <img src="https://img.shields.io/badge/💻_Get_Audible_App_on_Mac-darkorange?style=for-the-badge&logo=apple" alt="Audible App Button">  
 </a>  
 </div>  
